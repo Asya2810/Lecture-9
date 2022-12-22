@@ -1,0 +1,60 @@
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+body {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+  }
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: "Calibri Light";
+    font-size: 3.5 rem;
+    line-height: 1.5;
+}
+
+.navbar {
+    padding-left: 3.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Lucida Sans Unicode';
+    font-size: 3 rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.button {
+    margin-top: 50%;
+    display: inline-block;
+}
+
+/* .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+  } */
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50 px;
+    margin: 15px;
+    line-height: 75px;
+  }
+
+
+#footer {
+    background-color: #ff4c68;
+  }
+
